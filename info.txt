@@ -1,0 +1,24 @@
+Examenes practicas:
+
+##################2012/2013##################
+—AC——ISAM——>10/01/2013: strcpy
+—AC——ISAM——>20/06/2013: strcpy
+
+
+##################2013/2014##################
+—AC————————>12/12/2013: LISTA (create, insert, print)
+——-——ISAM——>10/12/2013: torre hanoi <——————————————————————<<< solo convertir código c
+—AC——ISAM——>16/06/2014: PILA (push, pop, print)
+
+
+##################2014/2015##################
+——-——ISAM——>09/12/2014: strcpy <———————————————————————————<<< solo una pila usa
+—AC————————>11/12/2013: PILA (create, push, print)
+———————————> En junio fue una lista normal
+
+
+##################2015/2016##################
+—AC————————>11/12/2015: PILA (push, remove, print) <———————<<< corregido por katia
+——-——ISAM——>09/12/2015: array  <———————————————————————————<<<  no usa pilas
+—AC——ISAM——>20/06/2013: LISTA (insert, remove, print)<—————<<< casi igual que la pila
+
